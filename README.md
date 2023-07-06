@@ -24,7 +24,6 @@ Here are some ideas to get you started:
      - LEGO
      - Project Management
 - 📫 How to reach me: infinite.chris@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I work in the medical industry currently, studied TV/ Video Production, and have worked in...
      - Physical content distribution
      - Digital content distribution
