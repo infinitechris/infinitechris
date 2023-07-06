@@ -15,7 +15,6 @@
      - Ham Radio
      - LEGO
      - Project Management
-- 📫 How to reach me: infinite.chris@gmail.com
 - ⚡ Fun fact: I work in the medical industry currently, studied TV/ Video Production, and have worked in...
      - Physical content distribution
      - Digital content distribution
