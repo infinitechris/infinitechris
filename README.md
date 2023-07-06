@@ -6,10 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Current Projects are pinned below.
-     - In case you couldn't tell, I greatly enjoy making guides!
-     - They allow me to braindump my processes, review, and find/resolve issues as they come up.
-     - I find the best guides (strive for mine to be) valuable if they're consistent and repeatable! 
+- 🔭 Current Projects are pinned
 - 🌱 I’m looking forward to learning...
      -  Ansible
      -  Kubernetes
