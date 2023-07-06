@@ -11,14 +11,14 @@ Here are some ideas to get you started:
      -  Ansible
      -  Kubernetes
      -  How to deploy a NAS (likely Synology DS1522+)
-- 👯 I’m willing to collaborate on anything, I know...
+- 👯 I’m willing to collaborate on anything! I know...
      - C++
      - C#
      - VBA
      - VBS
      - Bash
      - Batch scripting
-- 🤔 I’m looking for help with my projects and learning more!
+- 🤔 I’m looking for help with current projects and learning more!
 - 💬 Ask me about...
      - Ham Radio
      - LEGO
